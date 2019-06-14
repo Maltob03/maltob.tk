@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Maltob"
-baseURL = "maltob.tk"
+baseURL = "/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
