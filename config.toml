@@ -22,3 +22,6 @@ disqusShortname = ""
 [languages]
 [languages.en]
   languageName = "English"
+ 
+[params]
+favicon = "favicon.ico"
