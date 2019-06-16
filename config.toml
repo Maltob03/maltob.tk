@@ -25,9 +25,4 @@ disqusShortname = ""
 <<<<<<< HEAD
 
 [params]
-favicon = "favicon-16x16.png"
-=======
- 
-[params]
 favicon = "favicon.png"
->>>>>>> c76d13aef1ffd588ca4e51f091a847c2308dbe42
