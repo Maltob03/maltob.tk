@@ -1,8 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.intro }}
-<div id="intro"position: absolute;
-top: 0;
-left: 0;>
+<div id="intro"position: relative; top>
     <h1>
         {{ range $i, $e := .title }}
             {{ if $i }} <br/> {{ end }} {{ .line }}
