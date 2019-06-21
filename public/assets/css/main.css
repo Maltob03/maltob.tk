@@ -3116,7 +3116,7 @@
 		transition: opacity 1s ease, transform 1s ease;
 		position: relative;
 		cursor: default;
-		text-align: center;
+		text-align: top;
 		z-index: 1;
 		min-height: 100vh;
 	}
@@ -3206,7 +3206,7 @@
 		}
 
 		#intro + #header {
-			margin-top: -0rem;
+			margin-top: -20rem;
 		}
 
 			#intro + #header .logo {
