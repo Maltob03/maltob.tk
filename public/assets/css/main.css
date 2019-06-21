@@ -3092,11 +3092,11 @@
 /* Intro */
 
 	#intro {
-		color: #ffffff;
+		color: red;
 		padding: 8rem 4rem 6rem 4rem ;
-		-moz-align-items: top;
-		-webkit-align-items: top;
-		-ms-align-items: top;
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
 		align-items: center;
 		display: -moz-flex;
 		display: -webkit-flex;
