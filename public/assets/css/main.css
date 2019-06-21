@@ -3277,7 +3277,7 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 200px) {
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
