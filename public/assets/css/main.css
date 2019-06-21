@@ -3094,9 +3094,9 @@
 	#intro {
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
-		-moz-align-items: center;
-		-webkit-align-items: center;
-		-ms-align-items: center;
+		-moz-align-items: top;
+		-webkit-align-items: top;
+		-ms-align-items: top;
 		align-items: center;
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3116,7 +3116,7 @@
 		transition: opacity 1s ease, transform 1s ease;
 		position: relative;
 		cursor: default;
-		text-align: top;
+		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
 	}
