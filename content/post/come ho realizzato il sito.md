@@ -1,9 +1,10 @@
 +++ 
-title = 'Benvenuti' 
+title = 'How-to' 
 slug = 'post2' 
-image = 'images/incipit.jpg' 
-description = 'Chi sono e cosa farò' 
+image = 'images/how.jpg' 
+description = 'Come ho realizzato il sito' 
 disableComments = true 
 +++ 
 
-prova
+
+
