@@ -2,7 +2,7 @@
 title = 'Fotografi con lo smartphone' 
 slug = 'post2' 
 image = 'images/how.jpg' 
-description = 'Dalla comparsa della fotocamera sui cellulari ad un elemento imprescindibile' 
+description = 'Dalla comparsa della fotocamera sui cellulari ad essere un elemento imprescindibile' 
 disableComments = true 
 +++ 
 
