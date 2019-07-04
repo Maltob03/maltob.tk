@@ -1,8 +1,8 @@
 +++ 
-title = 'How-to' 
+title = 'Fotografi con lo smartphone' 
 slug = 'post2' 
 image = 'images/how.jpg' 
-description = 'Come ho realizzato il sito' 
+description = 'Dalla comparsa della fotocamera sui cellulari ad un elemento imprescindibile' 
 disableComments = true 
 +++ 
 
