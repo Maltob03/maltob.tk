@@ -10,12 +10,12 @@ disableComments = true
 
 Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss da quel momento è incominciata la corsa a al numero di megapixel e poi al numero di fotocamere ritenuto indice di qualità.Vediamo insieme come usare nel modo giusto la fotocamera dello smartphone per ottenere scatti decisamente buoni e,sopratutto,corretti.
 
-Innanzitutto evitare i vari effetti e modalità presenti nell’applicazione fotocamera, sono inutili e non fanno altro che aumentare saturazione contrasto e inventare dettagli che non esistono rendendo la foto finta e innaturale
+**1)** Innanzitutto evitare i vari effetti e modalità presenti nell’applicazione fotocamera, sono inutili e non fanno altro che aumentare saturazione contrasto e inventare dettagli che non esistono rendendo la foto finta e innaturale
 
-Non dare troppa importanza alla composizione, lo smartphone rispetto ad una fotocamera ha il vantaggio di essere rapido e pronto a scattare.
+**2)** Non dare troppa importanza alla composizione, lo smartphone rispetto ad una fotocamera ha il vantaggio di essere rapido e pronto a scattare.
 
-Evitare assolutamente i filtri dei vari social network , appiattiscono la foto e cambiano completamente i colori,la foto deve essere fedele alla scena che l'occhio ha visto.
+**3)** Evitare assolutamente i filtri dei vari social network , appiattiscono la foto e cambiano completamente i colori,la foto deve essere fedele alla scena che l'occhio ha visto.
 
-Utilizzare il foto ritocco però con cognizione senza abusarne , evitare eccessivi aumenti di saturazione ( l’intensità dei colori nelle foto) ed il contrasto (la differenza tra luci e ombre) cercando di correggerla tenendo conto della scena che i nostri occhi hanno visto senza trasformarla. Come app di fotoritocco utilizzo molto snapseed gratuita made by google. Ottimo il pannello calibra nella sezione strumenti ( è lo strumento che dovete usare di più).
+**3)** Utilizzare il foto ritocco però con cognizione senza abusarne , evitare eccessivi aumenti di saturazione ( l’intensità dei colori nelle foto) ed il contrasto (la differenza tra luci e ombre) cercando di correggerla tenendo conto della scena che i nostri occhi hanno visto senza trasformarla. Come app di fotoritocco utilizzo molto snapseed gratuita made by google. Ottimo il pannello calibra nella sezione strumenti ( è lo strumento che dovete usare di più).
 
-E in ultima parte cercare di fare foto meno banali possibile, non cercare l' inquadratura del paesaggio pittosto che un tramonto siate fantasiosi e vedrete che i vostri scatti saranno interessanti e attireranno di più l’attenzione sui social
+**4)** E in ultima parte cercare di fare foto meno banali possibile, non cercare l' inquadratura del paesaggio pittosto che un tramonto siate fantasiosi e vedrete che i vostri scatti saranno interessanti e attireranno di più l’attenzione sui social
