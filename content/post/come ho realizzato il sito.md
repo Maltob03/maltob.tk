@@ -16,9 +16,9 @@ Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss d
 
 **3)** Evitare i filtri dei vari social network,appiattiscono la foto e cambiano completamente colori,la foto deve essere fedele alla scena che l'occhio ha visto.
 
-**3)** Utilizzare il foto ritocco però con cognizione senza abusarne , evitare eccessivi aumenti di _saturazione_ ( l’intensità dei colori nelle foto) ed il _contrasto_ (la differenza tra luci e ombre) cercando di correggerla tenendo conto della scena che i nostri occhi hanno visto senza trasformarla. Come app di fotoritocco utilizzo molto snapseed gratuita made by google. Ottimo il pannello calibra nella sezione strumenti ( è lo strumento che dovete usare di più).
+**4)** Utilizzare il foto ritocco però con cognizione senza abusarne , evitare eccessivi aumenti di _saturazione_ ( l’intensità dei colori nelle foto) ed il _contrasto_ (la differenza tra luci e ombre) cercando di correggerla tenendo conto della scena che i nostri occhi hanno visto senza trasformarla. Come app di fotoritocco utilizzo molto snapseed gratuita made by google. Ottimo il pannello calibra nella sezione strumenti ( è lo strumento che dovete usare di più).
 
-**4)** E in ultima parte cercare di fare foto meno banali possibile, non cercare l' inquadratura del paesaggio pittosto che un tramonto siate fantasiosi e vedrete che i vostri scatti saranno interessanti e attireranno di più l’attenzione sui social
+**5)** E in ultima parte cercare di fare foto meno banali possibile, non cercare l' inquadratura del paesaggio pittosto che un tramonto siate fantasiosi e vedrete che i vostri scatti saranno interessanti e attireranno di più l’attenzione sui social
 
 
 Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
