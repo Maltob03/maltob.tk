@@ -3,30 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/post1/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>maltob.tk/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>maltob.tk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
     <loc>/post/fotografia/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+=======
+    <loc>maltob.tk/post/</loc>
     <priority>0</priority>
+>>>>>>> parent of 1d65f86... gallery
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <priority>0</priority>
+    <loc>maltob.tk/post/post1/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>maltob.tk/post/post1/</loc>
+  </url>
+  
+  <url>
+    <loc>maltob.tk/tags/</loc>
     <priority>0</priority>
   </url>
   
