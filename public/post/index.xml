@@ -2,25 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Maltob</title>
-    <link>maltob.tk/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Maltob</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="maltob.tk/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Primo post</title>
-      <link>maltob.tk/post/post1/</link>
+      <title>Benvenuti</title>
+      <link>/post/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>maltob.tk/post/post1/</guid>
-      <description>Primo post</description>
+      <guid>/post/post1/</guid>
+      <description>Mi incuriosisce ogni cosa che abbia un processore e una memoria. Sono davanti il monitor munito di mouse e tastiera da almeno 14 anni. Passione e voglia di fare mi hanno spinto a creare questo sito dove materialmente posso mettere le mie conoscenze e la mia esperienza in un luogo comune visitabile da tutti. L’informatica e la fotografia saranno il fulcro dei contenuti di maltob.tk, ci saranno poi guide per fare un sito come questo per modificare una foto nel modo corretto e con gli strumenti giusti.</description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Fotografi con lo smartphone</title>
       <link>/post/fotografia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,14 +27,6 @@
       <guid>/post/fotografia/</guid>
       <description>Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss da quel momento è incominciata la corsa a al numero di megapixel e poi al numero di fotocamere ritenuto indice di qualità.Vediamo insieme come usare nel modo giusto la fotocamera dello smartphone per ottenere scatti decisamente buoni e,sopratutto,corretti.
 1) Innanzitutto evitare i vari effetti e modalità presenti nell’applicazione fotocamera, sono inutili e non fanno altro che aumentare saturazione contrasto e inventare dettagli che non esistono rendendo la foto finta e innaturale.</description>
-=======
-      <title>Prova2</title>
-      <link>maltob.tk/post/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>maltob.tk/post/post1/</guid>
-      <description>seconda</description>
->>>>>>> parent of 1d65f86... gallery
     </item>
     
   </channel>
