@@ -1,7 +1,9 @@
----
-title: "Prova2"
-date: 2019-07-11T15:49:46+02:00
-draft: true
----
++++ 
+title = 'Benvenuti' 
+slug = 'post1' 
+image = 'images/incipit.jpg' 
+description = 'Chi sono e cosa farò' 
+disableComments = true 
++++
 
 prova prova prova
