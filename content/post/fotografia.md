@@ -1,6 +1,6 @@
 +++ 
 title = 'Fotografi con lo smartphone' 
-slug = 'foto-smartphone' 
+slug = 'gallery' 
 image = 'images/how.jpg' 
 description = 'Dalla comparsa della fotocamera sui cellulari ad essere un elemento imprescindibile' 
 disableComments = true 
