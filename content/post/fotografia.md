@@ -23,7 +23,7 @@ Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss d
 
 Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
-{{< figure src="bg.jpg" link="image.jpg" >}}
+{{< figure src="static/images/bg.jpg" link="image.jpg" >}}
 
 
 
