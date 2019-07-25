@@ -25,9 +25,11 @@ Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
 
 
-{{<load-photoswipe>}}
-{{< figure src="https://res.cloudinary.com/maltob03/image/upload/v1563987454/sample.jpg" alt="This is a caption">}}
-{{</load-photoswipe>}}
+{{< gallery class="content-gallery" >}}
+  {{< img src="/images/how.jpg" >}}
+  {{< img src="/images/incipit.jpg" >}}
+{{< /gallery >}}
+{{< img src="/images/how.jpg" >}}
 
 
 
