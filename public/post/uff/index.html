@@ -5,7 +5,8 @@
 		<title>Fotografi con lo smartphone &middot; Maltob</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href='/assets/css/main.css' />
+        <link rel="stylesheet" href='/assets/css/main.css' />
+        <link rel='stylesheet' href='{{.Site.BaseURL}}css/lightbox.css' type='text/css'
 		
 		<link rel="shortcut icon" href="icone/favicon.ico">
 		
@@ -88,6 +89,8 @@
 
 <p>Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.</p>
 
+<a href="https://res.cloudinary.com/maltob03/image/upload/v1563987454/sample.jpg" data-lightbox="image-1" data-title="My caption">Image #1</a>
+
 
               
                             
@@ -158,7 +161,7 @@ if (!doNotTrack) {
 <script src='/assets/js/skel.min.js'></script>
 <script src='/assets/js/util.js'></script>
 <script src='/assets/js/main.js'></script>
-<script src='/assets/js/lightbox.js'></script>
+<script src='{{.Site.BaseURL}}js/lightbox.js' async ></script>
 
 
 	</body>
