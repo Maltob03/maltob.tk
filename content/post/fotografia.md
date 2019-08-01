@@ -4,6 +4,8 @@ slug = 'uff'
 image = 'images/how.jpg' 
 description = 'Dalla comparsa della fotocamera sui cellulari ad essere un elemento imprescindibile' 
 disableComments = true 
+enableInlineShortcodes = true
+
 +++ 
 
 
@@ -22,11 +24,6 @@ Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss d
 
 
 Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
-
-
-
-
-
 
 
 
