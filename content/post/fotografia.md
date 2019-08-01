@@ -27,7 +27,7 @@ Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
 
 
-[![Alt text](/images/boo.svg)](https://alligator.io/)
+[![Alt text](https://res.cloudinary.com/maltob03/image/upload/v1563987454/sample.jpg)](https://alligator.io/)
 
 
 
