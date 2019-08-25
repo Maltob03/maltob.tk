@@ -28,7 +28,6 @@ Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
 
 
-{{< img src="bg.jpg" alt="Screenshot of the Onion homepage" >}}
 
 
 
