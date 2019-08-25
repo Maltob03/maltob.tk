@@ -1,6 +1,6 @@
 +++ 
 title = 'Fotografi con lo smartphone' 
-slug = 'uff' 
+slug = 'post2' 
 image = 'images/how.jpg' 
 description = 'Dalla comparsa della fotocamera sui cellulari ad essere un elemento imprescindibile' 
 disableComments = true 
@@ -27,11 +27,7 @@ Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
 
 
-{{< gallery class="content-gallery" >}}
-  {{< img src="/images/one.jpg" >}}
-  {{< img src="/images/two.jpg" >}}
-{{< /gallery >}}
-{{< img src="/images/three.jpg" >}}
+
 
 
 
