@@ -31,7 +31,9 @@ Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
 
 
-
+<script>
+    md_gallery();
+</script>
 
 
 
