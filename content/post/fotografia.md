@@ -25,8 +25,9 @@ Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss d
 
 Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
-<a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-1.jpg" data-lightbox="example-1"><img class="example-image" src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-1.jpg" alt="image-1" /></a>
-<a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-2.jpg" data-lightbox="example-2" data-title="Optional caption."><img class="example-image" src="http://lokeshdhakar.com/projects/lightbox2/images/thumb-2.jpg" alt="image-1"/></a>
+<h3>Firenze by Mate 20</h3>
+<a class="example-image-link" href="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="example-1"><img class="example-image" src="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1" /></a>
+<a class="example-image-link" href="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="example-2" data-title="Optional caption."><img class="example-image" src="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1"/></a>
 
 
 
