@@ -1,7 +1,7 @@
 +++ 
 title = 'Fotografi con lo smartphone' 
 slug = 'post2' 
-image = 'images/how.jpg' 
+image = 'images/post2/post2.jpg' 
 description = 'Dalla comparsa della fotocamera sui cellulari ad essere un elemento imprescindibile' 
 disableComments = true 
 enableInlineShortcodes = true
@@ -25,17 +25,10 @@ Nel 2005 viene presentato il primo cameraphone, il Nokia N90 con ottiche zeiss d
 
 Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
-<h3>Firenze by Mate 20</h3>
-<a class="example-image-link" href="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="example-1"><img class="example-image" src="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1" /></a>
-<a class="example-image-link" href="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="example-2" data-title="Optional caption."><img class="example-image" src="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1"/></a>
 
+<h2 style="text-align: center;">Firenze by Mate 20 </h2>
 
-
-
-
-
-
-
+<a class="example-image-link" href="https://res.cloudinary.com/maltob03/image/upload/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="example-1"><img class="example-image" src="https://res.cloudinary.com/maltob03/image/upload/c_scale,h_200,w_250/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1" /></a>
 
 
 
