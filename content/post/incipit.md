@@ -1,7 +1,7 @@
 +++ 
 title = 'Benvenuti' 
 slug = 'post1' 
-image = 'images/incipit.jpg' 
+image = 'images/post1/incipit.jpg' 
 description = 'Chi sono e cosa farò' 
 disableComments = true 
 +++ 
