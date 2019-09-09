@@ -28,7 +28,10 @@ Vi lascio qualche foto scattata dal mio smartphone,un HUAWEI MATE 20.
 
 <h2 style="text-align: center;">Firenze by Mate 20 </h2>
 
-<a class="example-image-link" href="https://res.cloudinary.com/maltob03/image/upload/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="example-1"><img class="example-image" src="https://res.cloudinary.com/maltob03/image/upload/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1" width="250" height="200" /></a>
+<div align="center">
+<a class="galleria-firenze" href="https://res.cloudinary.com/maltob03/image/upload/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" data-lightbox="post2"><img class="firenze" src="https://res.cloudinary.com/maltob03/image/upload/v1567690312/post2/IMG_20190322_110044_vaapgw.jpg" alt="image-1" width="240" height="200" /></a>
+</div>
+
 
 
 
