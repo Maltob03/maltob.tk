@@ -10,7 +10,7 @@ enableInlineShortcodes = true
 
 
 
-Le fotocamere degli smartphone più recenti hanno raggiunto degli ottimi livelli qualitativi e, di conseguenza ,non si ha la necessità di acquistare hardware dedicato come reflex e compatte. I social hanno fatto il resto ed oggi quando si valuta l'acquisto di uno smartphone si considera come uno dei parametri fondamentali la fotocamera. I produttori ,vista l'attenzione del consumatore in merito, stanno puntando molto sul numero di ottiche per avere diverse prospettive di scatto regalando al fotografo una notevole flessibilità nella composizione della scena.
+Le fotocamere degli smartphone più recenti hanno raggiunto degli ottimi livelli qualitativi e, di conseguenza ,non si ha la necessità di acquistare hardware dedicato come reflex e compatte. I social hanno fatto il resto ed oggi quando si valuta l'acquisto di uno smartphone si considera come uno dei parametri fondamentali la fotocamera. I produttori ,vista la crescente considerazione del consumatore in merito, stanno puntando sul numero di ottiche per avere diverse prospettive di scatto regalando al fotografo una notevole flessibilità nella composizione della scena.
 
 Piuttosto che consigliarvi app particolari di seguito sono elencati 5 punti per scattare una foto corretta e decisamente migliore
 
@@ -18,7 +18,7 @@ Piuttosto che consigliarvi app particolari di seguito sono elencati 5 punti per 
 
 **2)** Non dare troppa importanza alla composizione, lo smartphone rispetto ad una fotocamera ha il vantaggio di essere rapido e pronto a scattare.Non dovete fare altro che mettere a fuoco e non perdere l'attimo. **Carpe diem**
 
-**3)** Evitare i filtri dei vari social network, appiattiscono la foto e cambiano completamente colori, la foto deve essere fedele alla scena che l'occhio ha visto.
+**3)** Evitare i filtri dei vari social network, appiattiscono la foto e cambiano completamente colori, la foto significa raccontare un momento e usare dei colori molto forti distoglie l'attenzione dell'osservatore.
 
 **4)** Utilizzare il foto ritocco però con cognizione senza abusarne , evitare eccessivi aumenti di _saturazione_ ( l’intensità dei colori nelle foto) ed il _contrasto_ (la differenza tra luci e ombre) cercando di correggerla tenendo conto della scena che i nostri occhi hanno visto senza trasformarla. Come app di fotoritocco utilizzo molto snapseed gratuita made by google. Ottimo il pannello calibra nella sezione strumenti ( è lo strumento che dovete usare di più).
 
