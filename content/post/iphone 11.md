@@ -19,6 +19,7 @@ La camera grandangolare ha un sensore da 12MP con apertura focale f/2,4 e campo 
 
 Con un comparto foto/video cosi curato ci vuole anche un software apple di un certo calibro e IOS accoglie la sfida integrando funzioni in grado di sfruttare al meglio il comparto multi-cam. Innanzitutto la nuova modalità ritratto in black&white (è di grande effetto e restituisce davvero un gran risultato a mio parere) modalità Smart HDR resa possibile dalla potenza del nuovo processore e soprattutto la nuova modalità night mode per effettuare foto al buio sfruttando la stabilizzazione e tempi di esposizione piu lunghi
 Per quanto riguarda i video Apple ha introdotto una ghiera per gestire le varie focali per un passaggio tra una camera e l'altra fluido e preciso e la possibilità di registrare in 4K 60FPS HDR,  grandi riprese su un grande smartphone
+Da citare un miglioramento del Face ID e l'introduzione del nuovo chip U1 per localizzare IPhone con alta precisione e supporto al Wifi 6 per utilizzare ancora piu banda internet
 
 
 Passiamo nel dettaglio:
