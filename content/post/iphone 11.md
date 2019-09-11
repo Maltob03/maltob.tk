@@ -1,7 +1,7 @@
 +++ 
 title = 'Nuovi Iphone' 
 slug = 'post3' 
-image = 'images/post1/incipit.jpg' 
+image = 'images/post3/post3.jpg' 
 description = 'I nuovi arrivati da cupertino' 
 disableComments = true 
 +++ 
