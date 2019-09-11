@@ -10,7 +10,9 @@ enableInlineShortcodes = true
 
 
 
-Le fotocamere degli smartphone più recenti hanno raggiunto degli ottimi livelli qualitativi e, di conseguenza ,non si ha la necessità di acquistare hardware dedicato come reflex e compatte. I social hanno fatto il resto ed oggi quando si valuta l'acquisto di uno smartphone si considera come uno dei parametri fondamentali la fotocamera. I produttori recentemente stanno puntando molto sul numero di ottiche per avere diverse prospettive di scatto regalando al fotografo una notevole flessibilità nella composizione della scena.Piuttosto che consigliarvi app particolari di seguito sono elencati 5 punti per scattare una foto corretta e decisamente migliore
+Le fotocamere degli smartphone più recenti hanno raggiunto degli ottimi livelli qualitativi e, di conseguenza ,non si ha la necessità di acquistare hardware dedicato come reflex e compatte. I social hanno fatto il resto ed oggi quando si valuta l'acquisto di uno smartphone si considera come uno dei parametri fondamentali la fotocamera.
+
+I produttori recentemente stanno puntando molto sul numero di ottiche per avere diverse prospettive di scatto regalando al fotografo una notevole flessibilità nella composizione della scena.Piuttosto che consigliarvi app particolari di seguito sono elencati 5 punti per scattare una foto corretta e decisamente migliore
 
 **1)** Innanzitutto evitare i vari effetti e modalità presenti nell’applicazione fotocamera, inutili e non fanno altro che aumentare saturazione contrasto e inventare dettagli che non esistono rendendo la foto finta e innaturale.Poche sono le modalità utili una di queste è **l'HDR** quando la scena ha forti contrasti di luci e ombre o la funzione **ritratto** quando si vuole "staccare" il soggetto dallo sfondo
 
