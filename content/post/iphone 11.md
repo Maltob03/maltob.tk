@@ -9,7 +9,7 @@ disableComments = true
 Iphone 11, 11 Pro e 11 Pro Max. Ieri Apple allo Steve Jobs Theatre ha svelato la nuova line-up smartphone della mela morsicata concentrandosi particolarmente sul comparto fotografico rinnovato completamente su tutti i prodotti
 
 <div align="center">
-<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299294/post3/apple-iphone-11-pro-clear-case_ulgvha.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299294/post3/apple-iphone-11-pro-clear-case_ulgvha.jpg" alt="image-1" width="444" height="200" /></a>
+<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299294/post3/apple-iphone-11-pro-clear-case_ulgvha.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299294/post3/apple-iphone-11-pro-clear-case_ulgvha.jpg" alt="image-1" width="222" height="100" /></a>
 </div>
 
 Partiamo dai punti in comune, tutta la line-up è stata aggiornata al nuovo processore apple A13 Bionic che confrontato al predecessore unisce velocità migliorata del 20% con efficienza energetica migliorata del 40% (vuol dire che è piu veloce consumando meno batteria, fantastico no?) anche la GPU ha avuto gli stessi miglioramenti consentendo ad apple di affermare di aver presentato il processore piu prestante del mercato smartphone. Sui tre smartphone ha migliorato oltre alla prestazioni la durata della batteria inserendo batterie piu capienti e soprattutto un caricabatteria piu veloce (finalmente un caricabatteria da 18W che accelererà notevolmente i tempi di ricarica).
