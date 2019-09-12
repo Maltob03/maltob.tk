@@ -23,7 +23,7 @@ Partiamo dai punti in comune, tutta la line-up è stata aggiornata al nuovo proc
 Come abbiamo detto prima poi è stata posta particolare attenzione al reparto fotografico che si arricchisce di una camera grandangolare nel caso di Iphone 11 e un corredo di ottiche completo su Iphone 11 Pro e 11 Pro Max.
 
 <div align="center">
-<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299421/post3/iphone11camera-1568143426_kx1pmw.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299421/post3/iphone11camera-1568143426_kx1pmw.jpg" alt="image-1" width="400" height="200" /></a>
+<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299421/post3/iphone11camera-1568143426_kx1pmw.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299421/post3/iphone11camera-1568143426_kx1pmw.jpg" alt="image-1" width="200" height="100" /></a>
 </div>
 
 
