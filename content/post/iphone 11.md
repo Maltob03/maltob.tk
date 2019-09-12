@@ -50,7 +50,7 @@ Iphone 11 ha come grande differenza rispetto al pro un display da 6,1" Liquid Pr
 Ha però dalla sua un prezzo di listino di 839 euro per il modello base ed un ampia scelta di cromie
 
 <div align="center">
-<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" alt="image-1" width="378" height="200" /></a>
+<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" alt="image-1" width="189" height="200" /></a>
 </div>
 
 
@@ -61,7 +61,7 @@ Il luminosissimo schermo da 5,8" / 6,5" con tecnologia OLED , picchi di luminosi
 Per iphone 11 Pro il prezzo di listino è a partire da 1.189 euromentre per la variante MAX partirà da 1.289 euro.
 
 <div align="center">
-<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299702/post3/uploads2Fcard2Fimage2F10467242F66987bba-5ad9-4b48-a3c9-9a487bb78d7c.jpg2F950x534__filters3Aquality288029-630x354_z3a8jv.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299702/post3/uploads2Fcard2Fimage2F10467242F66987bba-5ad9-4b48-a3c9-9a487bb78d7c.jpg2F950x534__filters3Aquality288029-630x354_z3a8jv.jpg" alt="image-1" width="444" height="200" /></a>
+<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299702/post3/uploads2Fcard2Fimage2F10467242F66987bba-5ad9-4b48-a3c9-9a487bb78d7c.jpg2F950x534__filters3Aquality288029-630x354_z3a8jv.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299702/post3/uploads2Fcard2Fimage2F10467242F66987bba-5ad9-4b48-a3c9-9a487bb78d7c.jpg2F950x534__filters3Aquality288029-630x354_z3a8jv.jpg" alt="image-1" width="222" height="100" /></a>
 </div>
 
 
