@@ -50,7 +50,7 @@ Iphone 11 ha come grande differenza rispetto al pro un display da 6,1" Liquid Pr
 Ha però dalla sua un prezzo di listino di 839 euro per il modello base ed un ampia scelta di cromie
 
 <div align="center">
-<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" alt="image-1" width="189" height="200" /></a>
+<a class="iphone" href="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" data-lightbox="post2"><img class="iphone" src="https://res.cloudinary.com/maltob03/image/upload/v1568299591/post3/iPhone-11-final-colori-800x423_pofgdx.jpg" alt="image-1" width="189" height="100" /></a>
 </div>
 
 
