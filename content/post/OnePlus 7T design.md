@@ -15,7 +15,7 @@ La presentazione dei nuovi smartphone OnePlus è fissata il 26 settembre ma il C
 Nel suo post sul forum dell'azienda dimostra come OnePlus abbia sempre mostrato una notevole attenzione nel design dello smartphone anche quando non era considerato importante dai competitor. Dall'uso di materiali di pregio che non si erano mai visti su uno smartphone come la back-cover in legno di bambú, o ancora finitura in simil arenaria.
 
 <div align="center">
-<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1568820641/post4/6921815603733_2_s3pzbf.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1568820641/post4/6921815603733_2_s3pzbf.jpg" alt="" width="400" height="400" /></a>
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1568820641/post4/6921815603733_2_s3pzbf.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1568820641/post4/6921815603733_2_s3pzbf.jpg" alt="" width="" height="" /></a>
 </div>
 
 Leu poi spiega come la fotocamera sia l'elemento che attira per primo l'attenzione e deve avere un aspetto coerente e uniforme con tutto il resto e da qui la scelta di inserire un modulo circolare che raccoglie le tre fotocamere e crea contrasto con i bordi piú rettangolari dello smartphone
