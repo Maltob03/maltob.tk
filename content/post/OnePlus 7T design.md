@@ -1,6 +1,6 @@
 +++ 
 title = 'Oneplus 7T series' 
-slug = 'post4' 
+slug = 'Oneplus-7' 
 image = 'images/post4/post4.jpg' 
 description = 'Il CEO Pete Leu svela il design dei nuovi smartphone ' 
 disableComments = true

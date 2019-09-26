@@ -1,6 +1,6 @@
 +++ 
 title = 'Nuovi Iphone' 
-slug = 'post3' 
+slug = 'iphone-11' 
 image = 'images/post3/post3.jpg' 
 description = '' 
 disableComments = true 
