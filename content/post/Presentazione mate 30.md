@@ -80,7 +80,7 @@ La serie mate 30 sarà disponibile in diverse varianti di colore Emerald Green, 
 
 I prezzi:
 ---------
--Mate 30 costerà  799 euro
+-Mate 30 costerà  799 euro (non sarà disponibile in Italia inizialmente)
 
 -Mate 30 pro costerà 1099 euro
 
