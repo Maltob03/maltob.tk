@@ -1,6 +1,6 @@
 +++ 
 title = 'Mate 30 Pro' 
-slug = 'post5' 
+slug = 'mate 30 pro' 
 image = 'images/post5/post5.jpg' 
 description = '' 
 disableComments = true
