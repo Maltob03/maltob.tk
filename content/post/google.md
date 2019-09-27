@@ -16,5 +16,5 @@ Larry e Sergey invece avevano progettato un modo diverso che si basava sui link 
 Una volta scandagliato il web in cerca delle pagine con piu link accumularono dati su dati e misero a punto il motore di ricerca che dimostrò essere migliore dei concorrenti per la sua precisione.
 Il motore divenne quello usato dalla loro università per le ricerche web e i due spinti dagli ottimi risultati della loro invenzione decisero di fondare Google.
 
-Oggi sappiamo che Google è una delle big del settore che si è conquistata la propria fetta di mercato grazie a servizi come chrome, play store, assistenti digitali e pagamenti con smartphone e altro ancora.
+Oggi sappiamo che Google è una delle big del settore che si è conquistata la propria fetta di mercato grazie a servizi come chrome, play store, assistenti digitali e pagamenti con smartphone e altro ancora e controlla un numero elevato di altre aziende con la holding Alphabet di cui Google è il capo
 
