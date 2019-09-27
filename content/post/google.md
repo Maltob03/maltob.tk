@@ -9,7 +9,7 @@ disableComments = true
 In questo articolo ripercorriamo i passaggi che hanno portato alla nascita del motore di ricerca piu famoso di sempre.
 Ancora studenti universitari alla Stanford Univesity Larry page e Sergey Brin avevano pensato ad un motore di ricerca piu efficace per indicizzare i contenuti in base a ciò che si cercava rispetto agli altri motori di ricerca di quel tempo come Yahoo! o Excite.
 
-Cio che rendeva veramente efficace il motore di ricerca dei sue studenti era l'approccio innovativo che adottarono rispetto ai concorrenti. I motori di ricerca di allora ponevano come primi risultati le pagine che contenevano il maggior numero di volte la parola cercata, talvolte funzionava altre si trovavano cose completamente diverse, il problema quindi era la pertinenza con quello che si cercava.
+Cio che rendeva veramente efficace il motore di ricerca dei sue studenti era l'approccio innovativo che adottarono rispetto ai concorrenti. I motori di ricerca di allora ponevano come primi risultati le pagine che contenevano il maggior numero di volte la parola cercata, talvolta funzionava altre si trovavano cose completamente diverse, il problema quindi era la pertinenza con quello che si cercava.
 
 Larry e Sergey invece avevano progettato un modo diverso che si basava sui link presenti nei siti web, maggiore il numero di **link** maggiore sarà l'importanza della pagina e quindi la pertinenza con la parola cercata.
 
