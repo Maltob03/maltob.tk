@@ -29,11 +29,23 @@ Display
 -------
 Huawei ha lavorato particolarmente sull'ottimizzazione delle cornici curvando ulteriormente il display e riducendo la dimensione della tacca superiore.Lo schermo usa tecnologia Oled certificato dci P3 (supporta un numero elevato di sfumature di colore) e modalità cinematic color per migliorare le immagini riprodotte.Nel display oltre al sensore di impronte digitali huawei ha integrato uno speaker che riproduce il volume facendo vibrare lo schermo.Inoltre sono stati eliminati i tasti fisici del volume in favore di gesture touch sfruttabili anche nell'applicazione fotocamera.Nel notch oltre alla camera 3D per il riconoscimento del volto huawei ha aggiunto un sensore che riconosce i movimenti della mano per interagire con il dispositivo.
 
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569597446/post5/480x270_bvxo7v.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569597446/post5/480x270_bvxo7v.jpg" alt="" width="" height="" /></a>
+</div>
+
 Fotocamera
 ----------
 Sul comparto fotografico huawei ha dedicato gran parte della conferenza.Per il nuovo dispositivo hanno puntato sul collaudato sensore da 40MP RYYB (fa entrare piu luce) di dimensioni 1/ 1.54"(piu grande è il sensore migliore sarà la qualità) con scatti 3:2 e il nuovissimo sensore Ultra Wide Cine da 40MP di dimensioni 1/ 1.7" 4:3.
 Alla fine tutte queste sigle significano che la camera ultra grandangolare è stata rinnovata con un sensore piu grande in grado di catturare maggior luce e dettagli.
 Avendo un sensore di dimensioni importanti huawei ha potuto alzare la sensibilità ISO fino ad un massimo di 204800 per scatti completamente al buioL'accoppiata dei due sensori permette l'uso della super sensing camera che permettono di raggiungere sensibilità iso ancora superiori. Queste sono caratteristiche che mancano anche su fotocamere piu professionali quindi vanno testate prima di esprimere un giudizio
+
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569597610/post5/mate30proicona_xkb2q9.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569597610/post5/mate30proicona_xkb2q9.jpg" alt="" width="" height="" /></a>
+</div>
+
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569597876/post5/gsmarena_003_t8jmxr.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569597876/post5/gsmarena_003_t8jmxr.jpg" alt="" width="" height="" /></a>
+</div>
 
 funzioni video
 --------------
@@ -61,6 +73,10 @@ Caratteristiche identiche cambia solamente il sensore ultra-wide e la dimensione
 
 
 La serie mate 30 sarà disponibile in diverse varianti di colore Emerald Green, space Silver, Cosmic Purple e Black.
+
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569598058/post5/872706_wo4sf5.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569598058/post5/872706_wo4sf5.jpg" alt="" width="" height="" /></a>
+</div>
 
 I prezzi:
 ---------
