@@ -25,7 +25,7 @@ disqusShortname = ""
 
 [params]
 favicon = "icone/favicon.ico"
-dateFormat = "02.01.2006"
+dateFormat = "2006-01-02"
 
 [params.posts]
      folderName = "post"
