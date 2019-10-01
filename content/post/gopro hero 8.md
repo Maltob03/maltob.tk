@@ -12,7 +12,7 @@ Gopro rinnova il proprio portfolio di action cam presentando la nuova gopro hero
 Gopro Hero 8 integra un sistema di aggancio per accessori esterni ,come ad esempio il Gopro Lightmode, e due elementi pieghevoli che vanno a sostituire il The Frame non necessitando quindi di un accessorio esterno.Oltre ai nuovi sistemi di agganci gopro rinnova la sua action-cam anche all'interno introducendo il nuovo processore di immagine GP2 con supporto al sistema di stabilizzazione HyperSmooth e riprese fino al 4K 60FPS o 1080 240FPS.
 
 <div align="center">
-<a class="" href="https://res.cloudinary.com/maltob03/image/upload/v1569939608/post7/KUDRbJwZnqTWx7BKDMshC4-768-80_mpjhzm.jpg" data-lightbox="post2"><img class="" src="https://res.cloudinary.com/maltob03/image/upload/v1569939608/post7/KUDRbJwZnqTWx7BKDMshC4-768-80_mpjhzm.jpg" alt="" width="512" height="512" /></a>
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569939608/post7/KUDRbJwZnqTWx7BKDMshC4-768-80_mpjhzm.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569939608/post7/KUDRbJwZnqTWx7BKDMshC4-768-80_mpjhzm.jpg" alt="" width="" height="" /></a>
 </div>
 
 
@@ -35,7 +35,7 @@ batteria|1220 mAh
 Gopro non è piu solo una action cam ma con l'ausilio di una serie di accessori e trucchi software gopro la rende adatta anche per il vlog. Vi si possono infatti collegare uno schemo esterno touch un microfono direzionale e un flash led perl'illuminazione.Lato software gopro aggiunge gli obiettivi digitali per scegliere l'inquadratura piu adatta e l'Hypersmooth di 2 generazione che adesso corregge anche la linea di orizzonte centrando l'inquadratura
 
 <div align="center">
-<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569940292/post7/Senza_titolo-1_asdr0m.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569940292/post7/Senza_titolo-1_asdr0m.jpg" alt="512" width="" height="512" /></a>
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569940292/post7/Senza_titolo-1_asdr0m.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569940292/post7/Senza_titolo-1_asdr0m.jpg" alt="" width="" height="" /></a>
 </div>
 
 Gopro MAX
