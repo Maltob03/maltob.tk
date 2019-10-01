@@ -1,7 +1,8 @@
 +++ 
 title = 'Nuovi Iphone' 
 slug = 'iphone-11' 
-image = 'images/post3/post3.jpg' 
+image = 'images/post3/post3.jpg'
+date = '09.10.2019'
 description = '' 
 disableComments = true 
 +++ 
