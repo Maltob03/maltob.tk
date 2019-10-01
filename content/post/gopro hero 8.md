@@ -15,6 +15,9 @@ Gopro Hero 8 integra un sistema di aggancio per accessori esterni ,come ad esemp
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569939608/post7/KUDRbJwZnqTWx7BKDMshC4-768-80_mpjhzm.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569939608/post7/KUDRbJwZnqTWx7BKDMshC4-768-80_mpjhzm.jpg" alt="" width="" height="" /></a>
 </div>
 
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569941539/post7/gopro-hero-8-v1-607087_uxypp9.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569941539/post7/gopro-hero-8-v1-607087_uxypp9.jpg" alt="" width="" height="" /></a>
+</div>
 
 Di seguito una tabella con le caratteristiche tecniche:
 
@@ -32,7 +35,7 @@ connettività|GPS,USB Type-C,WiFi
 batteria|1220 mAh
 
 
-Gopro non è piu solo una action cam ma con l'ausilio di una serie di accessori e trucchi software la rende adatta anche per il vlog.Vi si possono infatti collegare uno schemo esterno touch un microfono direzionale e un flash led per l'illuminazione. Lato software gopro adotta gli obiettivi digitali per scegliere l'inquadratura piu adatta e l'Hypersmooth di 2 generazione che adesso corregge anche la linea di orizzonte centrando l'inquadratura
+Gopro non è piu solo una action cam ma con l'ausilio di una serie di accessori e trucchi software la rende adatta anche per il vlog.Vi si possono infatti collegare uno schemo esterno touch un microfono direzionale e un flash led per l'illuminazione. Lato software gopro adotta gli obiettivi digitali per scegliere l'inquadratura piu adatta e l'Hypersmooth di 2 generazione che adesso corregge anche la linea di orizzonte centrando l'inquadratura.Tra le note negative bisogna segnalare l'eliminazione della possibilità di cambiare la lente protettiva
 
 <div align="center">
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569940978/post7/Senza_titolo-1_nypt90.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569940978/post7/Senza_titolo-1_nypt90.jpg" alt="" width="" height="" /></a>
