@@ -1,6 +1,7 @@
 +++ 
 title = 'Buon compleanno Google' 
-slug = 'google' 
+slug = 'google'
+date= '2019/09/29'
 image = 'images/post6/post6.png' 
 description = '' 
 disableComments = true
