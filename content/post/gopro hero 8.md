@@ -38,6 +38,11 @@ Gopro non è piu solo una action cam ma con l'ausilio di una serie di accessori 
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569940978/post7/Senza_titolo-1_nypt90.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569940978/post7/Senza_titolo-1_nypt90.jpg" alt="" width="" height="" /></a>
 </div>
 
+Prezzo
+------
+
+Gopro Hero 8 sarà disponibile ad un prezzo di 429,99 euro,le tempistiche sono ancora ignote ma se si fa il preordine sul sito ufficiale gopro si ha una sd da 32Gb in omaggio
+
 Gopro MAX
 -----------
 
