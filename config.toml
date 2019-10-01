@@ -17,7 +17,7 @@ disqusShortname = ""
 #     pageSize = "6"
 #     featuredPost = "true"
 #     paginationPages = 2
-#     showFirstLast = false
+#     showFirstLast = true
  
 [languages]
 [languages.en]
