@@ -25,3 +25,10 @@ disqusShortname = ""
 
 [params]
 favicon = "icone/favicon.ico"
+
+[params.posts]
+     folderName = "post"
+     pageSize = "6"
+     featuredPost = "true"
+     paginationPages = 2
+     showFirstLast = true
