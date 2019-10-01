@@ -44,7 +44,7 @@ Gopro non è piu solo una action cam ma con l'ausilio di una serie di accessori 
 Prezzo
 ------
 
-Gopro Hero 8 sarà disponibile ad un prezzo di 429,99 euro,le tempistiche sono ancora ignote ma se si fa il preordine sul sito ufficiale gopro si ha una sd da 32Gb in omaggio
+Gopro Hero 8 sarà disponibile ad un prezzo di 429,99 euro,uscita fissata il 25 ottobre e se si effettua il preordine sul sito ufficiale gopro si riceve una sd da 32Gb in omaggio
 
 Gopro MAX
 -----------
@@ -65,4 +65,4 @@ batteria|1600 mAh
 Prezzo
 ------
 
-Gopro MAX sarà disponibile ad un prezzo di 529,99 euro,le tempistiche sono ancora ignote ma se si fa il preordine sul sito ufficiale gopro si ha una sd da 64Gb in omaggio
+Gopro MAX sarà disponibile ad un prezzo di 529,99 euro uscita fissata il 25 ottobre e se si effettua il preordine sul sito ufficiale gopro si riceve una sd da 64Gb in omaggio
