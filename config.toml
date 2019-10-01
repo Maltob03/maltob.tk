@@ -32,4 +32,4 @@ dateFormat = "02.01.2006"
      pageSize = "6"
      featuredPost = "true"
      paginationPages = 2
-     showFirstLast = "true"
+     showFirstLast = true
