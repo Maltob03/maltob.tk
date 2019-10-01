@@ -2,7 +2,7 @@
 title = 'Benvenuti' 
 slug = 'post1' 
 image = 'images/post1/incipit.jpg'
-date = '2019/09/10'
+date = '10.09.2019'
 description = 'Chi sono e cosa farò' 
 disableComments = true 
 +++ 
