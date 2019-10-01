@@ -35,7 +35,7 @@ batteria|1220 mAh
 Gopro non è piu solo una action cam ma con l'ausilio di una serie di accessori e trucchi software la rende adatta anche per il vlog.Vi si possono infatti collegare uno schemo esterno touch un microfono direzionale e un flash led per l'illuminazione. Lato software gopro adotta gli obiettivi digitali per scegliere l'inquadratura piu adatta e l'Hypersmooth di 2 generazione che adesso corregge anche la linea di orizzonte centrando l'inquadratura
 
 <div align="center">
-<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569940292/post7/Senza_titolo-1_asdr0m.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569940292/post7/Senza_titolo-1_asdr0m.jpg" alt="" width="" height="" /></a>
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569940978/post7/Senza_titolo-1_nypt90.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569940978/post7/Senza_titolo-1_nypt90.jpg" alt="" width="" height="" /></a>
 </div>
 
 Gopro MAX
