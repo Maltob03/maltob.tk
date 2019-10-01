@@ -52,7 +52,7 @@ Gopro MAX
 Gopro Max sostituisce fusion aggiungendo uno schermo LCD per vedere i contenuti che si registrano in tempo reale due nuovi sensori per creare immagini a 360 gradi e impermeabilità fino a 10 metri. I cambiamenti sotto la scocca sono i medesimi della hero 8 quindi nuovo processore e supporto all'HyperSmooth 2. Non mancano supporto 4K 60FPS o 1080 240FPS.
 
 <div align="center">
-<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569941647/post7/download_hagl3e.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569941647/post7/download_hagl3e.jpg" alt="" width="" height="" /></a>
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1569942055/post7/GoPro-Max-1568221646-0-0_coxytr.webp" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1569942055/post7/GoPro-Max-1568221646-0-0_coxytr.webp" alt="" width="" height="" /></a>
 </div>
 
 Scheda tecnica|**Gopro MAX**
@@ -61,3 +61,8 @@ sensore|12MP
 stabilizzazione|HyperSmooth 2.0
 video|4K @60fps,1080p @240fps
 batteria|1600 mAh
+
+Prezzo
+------
+
+Gopro MAX sarà disponibile ad un prezzo di 529,99 euro,le tempistiche sono ancora ignote ma se si fa il preordine sul sito ufficiale gopro si ha una sd da 64Gb in omaggio
