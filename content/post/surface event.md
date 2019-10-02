@@ -59,4 +59,18 @@ Surface Neo
 -----------
 
 Microsoft presenta un dispositivo pieghevole che però non integra un display flessibile ma due display separati da una cerniera.Un prodotto diverso per Microsoft
-e un prodotto diverso in tutto il settore tecnologico.Lo si potrebbe definire come un tablet flessibile mosso da CPU Intel.Sarà accompagnato da una tastiera fisica magnetica e costituisce un nuovo paradigma che aprirà a nuovi modi di utilizzo e di lavorare su dispositivi del genere
+e un prodotto diverso in tutto il settore tecnologico.Lo si potrebbe definire come un tablet flessibile mosso da CPU Intel.Sarà accompagnato da una tastiera fisica magnetica e costituisce un nuovo paradigma che aprirà a nuovi modi di utilizzo e di lavorare su dispositivi del genere.Il sistema operativo sarà windows 10X adatto ai dispositivi pieghevoli
+
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1570030186/post8/surface-neo-screengrab_xzdyj6.webp" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1570030186/post8/surface-neo-screengrab_xzdyj6.webp" alt="" width="" height="" /></a>
+</div>
+
+<div align="center">
+<a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1570030186/post8/Surface-Neo_slkhds.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1570030186/post8/Surface-Neo_slkhds.jpg" alt="" width="" height="" /></a>
+</div>
+
+
+
+Surface Duo
+-----------
+Le sorprese non finiscono qui microsoft presenta la sua proprosta per il panorama android.Non è un telefono e non è un tablet monta android e introduce una nuova categoria di device. Rispetto al Neo ha anche la parte telefonica e soprattutto monta android,prima volta in assoluto per microsoft
