@@ -73,7 +73,7 @@ e un prodotto diverso in tutto il settore tecnologico.Lo si potrebbe definire co
 
 Surface Duo
 -----------
-Le sorprese non finiscono qui microsoft presenta la sua proprosta per il panorama android.Non è un telefono e non è un tablet monta android e introduce una nuova categoria di device. Rispetto al Neo ha anche la parte telefonica e soprattutto monta android,prima volta in assoluto per microsoft.Questo testimonia l'apertura di microsoft verso sistema operativi diversi rispetto a windows e rimette in gioco mircosoft sul mercato mobile
+Le sorprese non finiscono qui microsoft presenta la sua proprosta per il panorama android.Non è un telefono e non è un tablet monta android e introduce una nuova categoria di device. Rispetto al Neo ha anche la parte telefonica e soprattutto monta android,prima volta in assoluto per microsoft.Questo testimonia l'apertura di  verso sistema operativi diversi rispetto a windows e rimette in gioco mircosoft sul mercato mobile
 
 <div align="center">
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1570030309/post8/Untitled_2.0_jez9za.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1570030309/post8/Untitled_2.0_jez9za.jpg " alt="" width="" height="" /></a>
