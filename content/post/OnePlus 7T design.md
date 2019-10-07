@@ -1,7 +1,7 @@
 +++ 
 title = 'Oneplus 7T series' 
 slug = 'Oneplus-7' 
-date = '09.16.2019'
+date = '2019-09-16'
 image = 'images/post4/post4.jpg' 
 description = 'Il CEO Pete Leu svela il design dei nuovi smartphone ' 
 disableComments = true

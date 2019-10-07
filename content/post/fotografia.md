@@ -2,7 +2,7 @@
 title = 'Fotografi con lo smartphone' 
 slug = 'post2' 
 image = 'images/post2/post2.jpg' 
-date = '09.5.2019'
+date = '2019-09-05'
 description = '5 regole per sfruttare la fotocamera del tuo smartphone al meglio' 
 disableComments = true 
 enableInlineShortcodes = true

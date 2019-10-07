@@ -2,7 +2,7 @@
 title = 'Mate 30 Pro' 
 slug = 'mate 30 pro' 
 image = 'images/post5/post5.jpg'
-date = '09.19.2019'
+date = '2019-09-19'
 description = '' 
 disableComments = true
 +++
