@@ -22,11 +22,7 @@ Surface laptop
 Rinnovato Surface Laptop, viene introdotta la nuova variante da 15". Aumenta la dimensione del touchpad del 20% e migliora l'esperienza di scrittura riprogettando la tastiera.Migliorato il sistema di autenticazione di windows hello che riesce a sbloccare il dispositivo in circa un secondo e vengono introdotti microfoni da studio integrati in vista di comandi vocali e voice-to-text.
 Rimane l'alcantara per il poggia polsi e vengono adottati oltre ai processori Intel i processori Ryzen di AMD che sicuramente amplia la possibilità di scelta anche per chi necessita di una GPU piu potente
 Microsoft ha inoltre riprogettato la struttura interna del PC per rendere piu facili la riparazione e la sostituzione del SSD. 
-Supporto alla ricarica rapida 0-80% in meno di un ora con Surface Connect
-20% dimesione touchpad.
-microfoni da studio
-Prezzi 999 13
-1189 15
+Supporto alla ricarica rapida 0-80% in meno di un ora con Surface Connect.
 
 <div align="center">
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1570029253/post8/1-83_tw8wh6.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1570029253/post8/1-83_tw8wh6.jpg" alt="" width="" height="" /></a>
@@ -73,7 +69,7 @@ e un prodotto diverso in tutto il settore tecnologico.Lo si potrebbe definire co
 
 Surface Duo
 -----------
-Le sorprese non finiscono qui microsoft presenta la sua proprosta per il panorama android.Non è un telefono e non è un tablet monta android e introduce una nuova categoria di device. Rispetto al Neo ha anche la parte telefonica e soprattutto monta android,prima volta in assoluto per microsoft.Questo testimonia l'apertura di  verso sistema operativi diversi rispetto a windows e rimette in gioco mircosoft sul mercato mobile. Anche questo sarà disponibile a natale 2020
+Le sorprese non finiscono qui microsoft presenta la sua proposta per il panorama android.Non è un telefono e non è un tablet, introduce una nuova categoria di device. Rispetto al Neo ha anche la parte telefonica e soprattutto monta android, prima volta in assoluto per microsoft.Questo testimonia l'apertura di  verso sistema operativi diversi e rimette in gioco l'azienda sul mercato mobile. Anche questo sarà disponibile a natale 2020
 
 <div align="center">
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1570030309/post8/Untitled_2.0_jez9za.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1570030309/post8/Untitled_2.0_jez9za.jpg " alt="" width="" height="" /></a>
