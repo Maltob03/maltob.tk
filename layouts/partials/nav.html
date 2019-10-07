@@ -6,8 +6,6 @@
         {{ with $data.contactinfo }}
         <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
         {{ end }}
-        <li><a href="http://www.photomaltob.tk/">Portfolio</a></li>
-        <li><a href="http://www.premiummaltob.tk/">Premium</a></li>
         {{ if .IsTranslated }}
         {{ range .AllTranslations }}
         <li {{if eq ($.Site.Language) (.Language)}}class="active"{{end}}><a href='{{ .Permalink }}'>{{ .Language.LanguageName }}</a></li>
