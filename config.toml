@@ -3,7 +3,7 @@ title = "Maltob"
 baseURL = "/"
 theme = "hugo-theme-massively"
 googleanalytics = "UA-142195063-1"
-disqusShortname = ""
+disqusShortname = "https-maltob-tk"
 
 # [params]
   # set below parameter to define a favicon

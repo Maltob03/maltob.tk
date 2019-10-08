@@ -4,7 +4,7 @@ date = "2019-10-02"
 slug = 'surface event' 
 image = 'images/post8/post8.png' 
 description = 'surface pro,laptop e project centaurus' 
-disableComments = true
+disableComments = false
 +++
 
 La categoria di prodotti Microsoft che si rivolgono prettamente ai professionisti che cercano portabilità ed allo stesso tempo qualità e prestazioni si rinnova oggi in quasi tutti i prodotti.Microsoft aggiunge diverse novità come ad esempio porta type-c e processori di decima generazione.Analizziamo ogni prodotto
