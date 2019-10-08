@@ -4,7 +4,7 @@ date = "2019-10-01"
 slug = 'gopro hero 8' 
 image = 'images/post7/post7.png' 
 description = '' 
-disableComments = true
+disableComments = false
 +++
 
 Gopro rinnova il proprio portfolio di action cam presentando la nuova gopro hero 8 e rinnova la Gopro fusion presentata ormai nel lontano 2017.

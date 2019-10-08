@@ -4,7 +4,7 @@ slug = 'Oneplus-7'
 date = '2019-09-16'
 image = 'images/post4/post4.jpg' 
 description = 'Il CEO Pete Leu svela il design dei nuovi smartphone ' 
-disableComments = true
+disableComments = false
 +++ 
 
 La presentazione dei nuovi smartphone OnePlus è fissata il 26 settembre ma il CEO a quanto pare era impaziente tanto quanto i fan dell'azienda e ha deciso di svelare in anteprima il design dei nuovi smartphone che , non viene rivoluzionato , ma viene introdotto un elemento circolare nella scocca posteriore che racchiude il comparto fotografico

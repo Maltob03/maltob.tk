@@ -4,7 +4,7 @@ slug = 'mate 30 pro'
 image = 'images/post5/post5.jpg'
 date = '2019-09-19'
 description = '' 
-disableComments = true
+disableComments = false
 +++
 
 Oggi 19 settembre sono stati presentati a Monaco i nuovi smartphone huawei della categoria Mate.

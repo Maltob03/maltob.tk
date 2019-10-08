@@ -4,7 +4,7 @@ slug = 'iphone-11'
 image = 'images/post3/post3.jpg'
 date = '2019-09-10'
 description = '' 
-disableComments = true 
+disableComments = false
 +++ 
 
 Iphone 11, 11 Pro e 11 Pro Max. Ieri Apple allo Steve Jobs Theatre ha svelato la nuova line-up smartphone della mela morsicata concentrandosi particolarmente sul comparto fotografico rinnovato completamente su tutti i prodotti
