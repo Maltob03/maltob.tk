@@ -4,7 +4,7 @@ slug = 'google'
 date= '2019-09-29'
 image = 'images/post6/post6.png' 
 description = '' 
-disableComments = true
+disableComments = false
 +++
 
 In questo articolo ripercorriamo i passaggi che hanno portato alla nascita del motore di ricerca piu famoso di sempre.
