@@ -23,4 +23,4 @@ Ottime cuffie che cambiano il modo di ascoltare la musica rispetto a qualsiasi c
 <div align="center">
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1571411548/post9/_MG_1231_wdvd5s.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1571411548/post9/_MG_1231_wdvd5s.jpg" alt="" width="" height="" /></a>
 
-Insomma per 29,90 valgono ampiamente il prezzo per accedere ad una nuova e semplice esperienza d'uso che privilegia portabilità ed immediatezza unita comunque ad un ottima qualità generale. 
+Insomma per 29,90 valgono ampiamente il prezzo per accedere ad una nuova e semplice esperienza d'uso che privilegia portabilità ed immediatezza coadiuvata da un ottima qualità generale. 
