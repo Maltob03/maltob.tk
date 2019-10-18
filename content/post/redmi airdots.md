@@ -7,7 +7,7 @@ description = 'Ascoltare musica non è mai stato cosi semplice'
 disableComments = false
 +++
 
-Le prime cuffie true wirless sono state presentate da Apple durante la presentazione di Iphone 7 ed andavano a creare una nuova categoria di prodotto.La loro immediatezza d'uso ha spinto le altre aziende del settore a presentare la loro proposta.Se fino all'anno scorso le Airpods sembravano imbattibili ma quest'anno i produttori ci sono andati vicini, cambia il sistema di appoggio alle orecchie ma la qualità del suono ha un ottimo livello.Ho trovato il giusto equilibrio nelle Redmi AirDots, la proposta di xiaomi nel mondo delle true-wirless.
+Le prime cuffie true wirless sono state presentate da Apple durante la presentazione di Iphone 7 ed andavano a creare una nuova categoria di prodotto.La loro immediatezza d'uso ha spinto le altre aziende del settore a presentare la loro proposta.Se fino all'anno scorso le Airpods sembravano imbattibili quest'anno i produttori ci sono andati vicini, cambia il sistema di appoggio alle orecchie ma la qualità del suono ha un ottimo livello.Ho trovato il giusto equilibrio nelle Redmi AirDots, la proposta di xiaomi nel mondo delle true-wirless.
 
 <div align="center">
 <a class="image main" href="https://res.cloudinary.com/maltob03/image/upload/v1571411547/post9/_MG_1230_sq7yjp.jpg" data-lightbox="post2"><img class="image main" src="https://res.cloudinary.com/maltob03/image/upload/v1571411547/post9/_MG_1230_sq7yjp.jpg" alt="" width="" height="" /></a>
