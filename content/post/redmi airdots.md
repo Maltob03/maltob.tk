@@ -1,7 +1,7 @@
 +++ 
 title = 'Redmi AirDots'
 date = "2019-10-18"
-slug = 'surface event' 
+slug = 'recensione redmi airdots' 
 image = 'images/post9/post9.jpg' 
 description = 'Ascoltare musica non è mai stato cosi semplice' 
 disableComments = false
