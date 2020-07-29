@@ -2,7 +2,7 @@
 title = 'Villapp' 
 slug = 'Flutter Development'
 date= '2020-07-28'
-image = 'images/post6/post6.png' 
+image = 'images/post11/post11.jpg' 
 description = '' 
 disableComments = false
 +++
